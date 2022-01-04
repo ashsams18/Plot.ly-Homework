@@ -7,4 +7,4 @@ Following are screenshots from the app.js codes.
 
 2)
 
-![app.js-1](Screenshots/app.js-2.png)
+![app.js-2](Screenshots/app.js-2.png)
