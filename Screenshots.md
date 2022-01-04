@@ -1,4 +1,4 @@
-**The Plot.ly homework Javascript and HTML files can be found in the Startercode folder.**
+**The Plot.ly homework Javascript and HTML files can be found in the StarterCode folder.**
 Following are screenshots from the app.js codes.
 
 1)
